@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.6fe5a6a0.css",
-    "main.js": "/repository-name/static/js/main.2db4b40d.js",
-    "index.html": "/repository-name/index.html",
-    "main.6fe5a6a0.css.map": "/repository-name/static/css/main.6fe5a6a0.css.map",
-    "main.2db4b40d.js.map": "/repository-name/static/js/main.2db4b40d.js.map"
+    "main.css": "/e-commerce-arena/static/css/main.6fe5a6a0.css",
+    "main.js": "/e-commerce-arena/static/js/main.2db4b40d.js",
+    "index.html": "/e-commerce-arena/index.html",
+    "main.6fe5a6a0.css.map": "/e-commerce-arena/static/css/main.6fe5a6a0.css.map",
+    "main.2db4b40d.js.map": "/e-commerce-arena/static/js/main.2db4b40d.js.map"
   },
   "entrypoints": [
     "static/css/main.6fe5a6a0.css",
