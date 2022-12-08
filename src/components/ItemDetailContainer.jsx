@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import ItemList from "./ItemList";
 import products from "./json/products.json"
-import Loader from "./Loader"
+import ItemDetail from "./ItemDetail";
+import Loader from "./Loader";
 
-const ItemListContainer = () => {
-    const [item, setItem] = useState([])
+const ItemDetailContainer = () => {
+
+    const [ item, setItem ] = useState([])
     const [ loading, setLoading] = useState(true)
     const { id } = useParams()
 
@@ -13,7 +14,7 @@ const ItemListContainer = () => {
         const promise = new Promise((resolve, reject) => {
             setTimeout(() => {
                 setLoading(false)
-                resolve(id ? products.filter (item => item.category === id) : products)
+                resolve(products.find (item => item.id === parseInt(id)))
             }, 2000)
         })
 
@@ -22,17 +23,13 @@ const ItemListContainer = () => {
         })
 
     }, [id])
-
     return (
-        <div className="container ">
-            <div>
-                {
-                    loading ? <Loader /> : <ItemList item={item} />
-                }
-            </div>
-            
+        <div className="container">
+            {
+                loading ? <Loader /> : <ItemDetail item={item} />
+            }
         </div>
     )
 }
 
-export default ItemListContainer
+export default ItemDetailContainer

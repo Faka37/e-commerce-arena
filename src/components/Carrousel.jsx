@@ -6,10 +6,10 @@ const Carrousel = () => {
             <div id="carouselExampleFade" className="carousel slide carousel-fade" data-bs-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src={"images/slide.jpg"} className="d-block w-100 slide" alt={"slide"}/>
+                        <img src={ "https://i.postimg.cc/y8zRRDCm/slide.webp" } className="d-block w-100 slide" alt={"slide"}/>
                     </div>
                     <div className="carousel-item">
-                        <img src={"images/2-slide.jpg"} className="d-block w-100 slide" alt={"slide"}/>
+                        <img src={"https://i.postimg.cc/y8qmTfcS/2-slide.webp"} className="d-block w-100 slide" alt={"slide"}/>
                     </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
