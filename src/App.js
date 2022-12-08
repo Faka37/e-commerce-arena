@@ -13,9 +13,9 @@ const App = () => {
         <BrowserRouter>
             <NavBar />
             <Routes>
-                <Route exact path={'/'} element={<ItemListContainer />} />
-                <Route exact path={'/category/:id'} element={<ItemListContainer />} />
-                <Route exact path={"/item/:id"} element={<ItemDetailContainer />} />
+                <Route exact path={'e-commerce-arena/'} element={<ItemListContainer />} />
+                <Route exact path={'e-commerce-arena/category/:id'} element={<ItemListContainer />} />
+                <Route exact path={"e-commerce-arena/item/:id"} element={<ItemDetailContainer />} />
                 <Route path={'/*'} element={<Error />} />
             </Routes>
             <Publicity />
