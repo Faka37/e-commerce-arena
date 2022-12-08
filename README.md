@@ -1,2 +1,2 @@
 <h1>Video Muestra de e-commerce</h1>
-<video class="w-100" src="./public/video/e-commerce.webm"></video>
+[public_e-commerce.webm](https://user-images.githubusercontent.com/107015508/206342299-a8e9a21e-62a7-4624-9b6d-dac9d99a98f1.webm)
