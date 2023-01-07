@@ -10,7 +10,7 @@ const Item = ({ item }) => {
                 <div className="card-body">
                     <h4 className="card-title">{item.name}</h4>
                     <p className="card-text mt-3"><b>${item.price}</b></p>
-                    <button className="btn btn-primary" type="button" disabled>
+                    <button className="btn btn-primary " type="button" disabled>
                         Ver mas
                     </button>
                 </div>

@@ -1,6 +1,5 @@
 [
     { 
-        "id": 1,
         "name": "Traje de Baño Crazy Fantasy Skull 980" ,
         "description": "Crazy arena llegó para las fanáticas de los colores y el diseño; es una nueva colección de trajes de baño de entrenamiento y recreación ideada para jóvenes generaciones y para las amantes de la vanguardia. Estampados ultra coloridos, diseños alocados y mucho color para vivir largas sesiones de entrenamiento intensivo." ,
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004649980-031-31bd32cdc86b9421b016697451292651-640-0.webp" ,
@@ -9,7 +8,6 @@
         "category": "Mujer"
     },
     {
-        "id": 2,
         "name": " Mochila Team 45 Fantasy Skull" ,
         "description": "​La renovada mochila arena Team 45 es versátil, diseñada para deportistas con mucho espacio para indumentaria, accesorios y equipamiento de entrenamiento. Gracias a su diseño de carga superior, podés acceder y organizar fácilmente tus objetos. Incluso cuenta con un compartimento especial para objetos húmedos o calzado y una bolsa interna extraible para pequeños objetos.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/002437140-011-680a349cacb602f82516594563107870-640-0.webp",
@@ -18,7 +16,6 @@
         "category": "Equipamiento"
     },
     {
-        "id": 3,
         "name": "Traje de Baño Psychedelic Mood 500",
         "description": "Si buscás ser discreto, mejor volvé otro dia :-). El nuevo traje de baño arena ONE Psychedelic Mood impacta por su colorido diseño de tonos brillantes. La espiral psicodélica comienza desde el pecho y se expande a través de toda la pieza. El gran logo estampado arena en blanco brillante se destaca en el frente de cuello alto.Diseñado con tecnología arena ONE, este traje de baño optimiza la hidrodinamia gracias a una única pieza de tejido con una única costura trasera evitando las indeseadas costuras laterales ofreciendo el máximo confort.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/005790500-011-38535cabf66aa9338316697479509280-640-0.webp",
@@ -27,7 +24,6 @@
         "category": "Mujer"
     },
     {
-        "id": 4,
         "name": "Antiparras Cobra Ultra Swipe Mirror 310",
         "description": "Las antiparras arena Cobra Ultra Swipe Mirror producidas en Japón son la perfección hidrodinámica. Con lentes de perfil bajo espejados, molduras de alta tecnología y una silueta afilada, las nuevas Cobra Ultra Swipe Mirror minimizan la resistencia contra el agua con un diseño ultra elegante y super hermético; son ideales para nadadores de nivel intermedio y expertos.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/002507310-021-74a42076e79aa8d17a16433773421904-640-0.webp",
@@ -36,7 +32,6 @@
         "category": "Equipamiento"
     },
     {
-        "id": 5,
         "name": "Traje de Baño arena One Double Cross 550",
         "description": "Los tirantes en forma de Y en dos tonos y el ribete en el contorno realzan el vibrante diseño simple de nuestro traje de baño arena One Double Cross.Confeccionado con tejido Maxlife, altamente resistente, es perfecto para entrenamientos intensivos.Su tecnología monopieza sin costuras laterales se comporta asombrosamente en el agua logrando una mejor hidrodinamia y mayor durabilidad.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004732550-v2_003150101-011-e017ffda4460b91e0516697398652404-640-0.webp",
@@ -45,7 +40,6 @@
         "category": "Mujer"
     },
     {
-        "id": 6,
         "name": "Beach X-Short Brampton Aqua",
         "description": "El nuevo x-short arena Brampton es super cómodo para correr, nadar o practicar deportes de playa o en piscinas recreativas. Conmemora el clásico estilo de los ´80 con ribetes en contraste y dobladillo curvo.Se completa con dos prácticos bolsillos, cordón de ajuste, suspensor interior y nuestro logo termoestampado.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004277870-031-4013d034ed469e6fff16294767387358-640-0.webp",
@@ -54,7 +48,6 @@
         "category": "Hombre"
     },
     {
-        "id": 7,
         "name": "Traje de Baño Crazy Skulls Carnival 500",
         "description": "Crazy arena llegó para las fanáticas de los colores y el diseño; es una nueva colección de trajes de baño de entrenamiento y recreación ideada para jóvenes generaciones y para las amantes de la vanguardia. Estampados ultra coloridos, diseños alocados y mucho color para vivir largas sesiones de entrenamiento intensivo.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004045500-031-fa613796ddb9b4cd7516697513233153-640-0.webp",
@@ -63,7 +56,6 @@
         "category": "Mujer"
     },
     {
-        "id": 8,
         "name": "Mochila Team 45 Nebula",
         "description": "​La renovada mochila arena Team 45 es versátil, diseñada para deportistas con mucho espacio para indumentaria, accesorios y equipamiento de entrenamiento. Gracias a su diseño de carga superior, podés acceder y organizar fácilmente tus objetos. Incluso cuenta con un compartimento especial para objetos húmedos o calzado y una bolsa interna extraible para pequeños objetos.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/002437139-0111-93d63b30ef0c263df416594561363394-480-0.webp",
@@ -72,7 +64,6 @@
         "category": "Equipamiento"
     },
     {
-        "id": 9,
         "name": "Jammer Lightning Color 500",
         "description": "El jammer arena Lightning Color se destaca por su estampado sublimado sobre un aplique lateral con gráficos de rayos en escala de grises. Es perfecto para largas e intensivas sesiones de entrenamiento. Cuenta con forro frontal para mayor soporte. MaxLife es un tejido diseñado exclusivamente por arena para sus trajes de baño con la máxima resistencia en aguas con cloro. MaxLife es el resultado de 21 meses de desarrollo y más de 200 pruebas de laboratorios brindando en un mismo tejido un excelente ajuste, manteniendo la forma de la prenda y una gran performance hidrodinámica. Además, es de secado rápido y cuenta con protección UVA 50+.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004387500-031-e1b68f584a69cb941016550761283703-640-0.webp",
@@ -81,7 +72,6 @@
         "category": "Hombre"
     },
     {
-        "id": 10,
         "name": "Mid-Jammer Light Touch 580",
         "description": "El mid-jammer arena Light Touch se caracteriza por su diseño simple y deportivo con estampado serigráfico en una sola pierna en color turquesa con el logotipo arena y suaves ondas descendentes. Es perfecto para largas e intensivas sesiones de entrenamiento. Cuenta con forro frontal para mayor soporte y cordón ajustable. MaxLife es un tejido diseñado exclusivamente por arena para sus trajes de baño con la máxima resistencia en aguas con cloro. MaxLife es el resultado de 21 meses de desarrollo y más de 200 pruebas de laboratorios brindando en un mismo tejido un excelente ajuste, manteniendo la forma de la prenda y una gran performance hidrodinámica. Además, es de secado rápido y cuenta con protección UVA 50+.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004086580-031-a5775358b001ea2a3716550767812647-640-0.webp",
@@ -90,7 +80,6 @@
         "category": "Hombre"
     },
     {
-        "id": 11,
         "name": "Traje de Baño Evolution JR 817",
         "description": "El traje de baño arena Evolution Junior se caracteriza por contar con forro completo en su versión en color blanco y con forro frontal en su versión en color azul para evitar transparencias indeseadas, es de corte medio e incorpora espalda Swim Pro, la favorita de las argentinas. La combinación de colores en un mix de logomarca arena y lemas característicos de la marca lo convierten en un traje de baño de gran impacto visual y super estilizado.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/001301817-011-596bc55b3453972da016294784062988-640-0.webp",
@@ -99,7 +88,6 @@
         "category": "Niños"
     },
     {
-        "id": 12,
         "name": "Jammer Scary Junior 500",
         "description": "El jammer arena Scary Junior es perfecto para quienes buscan sobriedad con un toque de color gracias a su estampado lateral serigráfico inspirado en calaveras.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/004110500-021-13cc18bdab589ffd8116703705475278-640-0.jpg",
@@ -107,8 +95,7 @@
         "price": 7900,
         "category": "Niños"
     },
-    {   
-        "id": 13,
+    { 
         "name": "Fast Tote Icons Negro",
         "description": "arena Fast Tote Icons es trendy, versátil y ultra cómodo.Es un 2 en 1 liviano, duradero y fácil de combinar con tu outfit diario.Se puede usar como un bolso de mano, colgado en el hombro o como una mochila. Cuenta con un gran compartimento principal con cierre para guardar tus pertenencias, un compartimento separado con doble acolchado para tu laptop o tablet y cómodas correras en la espalda.",
         "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/742/412/products/003186100-011-86c3277170b47358f416594666434790-640-0.webp",
@@ -117,9 +104,6 @@
         "category": "Equipamiento"
     
     }
-    
-    
-
 ]
 
 
