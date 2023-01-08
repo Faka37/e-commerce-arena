@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
     return (
         <div>
-            <div className='row p-3'>
-                <div className="card col-6 p-3 border-0 " >
+            <div className='row p-3 '>
+                <div className="card col-md-6 col-12 p-3 border-0 " >
                     <div className='row'>
                         <div className='col'>
                             <h4>PRODUCTOS</h4>
@@ -88,7 +88,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="card col-6 p-3 border-0 bg-dark text-white p-5" >
+                <div className="card col-md-6 p-3 border-0 bg-dark text-white p-5" >
                     <div className="col-9 justify-content-center">
                         <img className="w-75" src={'https://i.postimg.cc/xjhM0ssF/logo-footer.png'} alt={'Logo de footer'} />
                         <h3>SUSCRIBITE</h3>

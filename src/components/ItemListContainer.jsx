@@ -9,6 +9,7 @@ const ItemListContainer = () => {
     const [loading, setLoading] = useState(true)
     const { id } = useParams()
 
+
     //Coleccion de datos
     useEffect(() => {
         const db = getFirestore()

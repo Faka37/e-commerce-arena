@@ -5,6 +5,7 @@ import { CartContext } from './context/CartContext'
 const Cart = () => {
     const { cart, cartTotal, priceTotal,  clear, removeItem } = useContext(CartContext)
     
+
     if (cartTotal() === 0) {
         return (
             <div className='container'>
