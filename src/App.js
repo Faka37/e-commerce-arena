@@ -9,6 +9,7 @@ import Publicity from "./components/Publicity"
 import Footer from "./components/Footer"
 import "./index.css"
 import CartContextProvider from './components/context/CartContext';
+import Checkout from './components/Checkout';
 
 const App = () => {
     return (
@@ -20,6 +21,7 @@ const App = () => {
                     <Route exact path={'/category/:id'} element={<ItemListContainer />} />
                     <Route exact path={"/item/:id"} element={<ItemDetailContainer />} />
                     <Route exact path={"/cart"} element={<Cart />} />
+                    <Route exact path={"/checkout"} element={<Checkout />} />
                     <Route path={'/*'} element={<Error />} />
                 </Routes>
                 <Publicity />
