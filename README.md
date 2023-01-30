@@ -10,7 +10,7 @@ carrito.\
 listado compacto de la orden con el precio total.\
   ● Al ingresar su nombre, apellido, e-mail, se activa el botón de ‘realizar compra’.\
   ● Al clickear ‘realizar compra’ se guarda en la base de datos una orden que
-tiene todos los productos, la fecha y da un feedback del número de orden.\
+tiene todos los productos, la fecha y da un feedback del número de orden.
 
 
 
@@ -27,10 +27,10 @@ tiene todos los productos, la fecha y da un feedback del número de orden.\
 
 ### Tecnologías utilizadas
 
-React\
-Firebase\
-Bootstrap\
+⭐ Bootstrap\
+⭐ React\
+⭐ Firebase
 
 ### Personas-Desarrolladores del Proyecto
 
-Facundo Rodriguez
+💻 Facundo Rodriguez
